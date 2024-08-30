@@ -43,7 +43,7 @@ def click_and_type_message(x, y, num_messages, typing_speed=0.02, wait_time=0.10
         "Entendi",   # "Sinto sua falta"
         "Estou resolvendo esse assunto",      # "Você é minha vida"
         "Bom dia",      # "Te adoro"
-        "Lucas" # "Amo você muito"
+        "Carlos" # "Amo você muito"
     ]
 
     emojis = ["❤️", "💕", "💖", "😘", "🌹", "😍", "☀️", "💔"]
@@ -78,7 +78,7 @@ def main():
     time.sleep(0.5)  # Pausa após a captura
 
     # Localiza e clica em um ícone
-    locate_and_click('iconelucas.png')  # Substitua 'icon.png' pelo caminho da imagem do ícone
+    locate_and_click('iconecarlos.png')  # Substitua 'icon.png' pelo caminho da imagem do ícone
 
     # Clique em uma posição específica e envie mensagens
     num_messages = 8  # Defina quantas mensagens você quer enviar
