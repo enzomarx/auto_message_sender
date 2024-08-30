@@ -1,10 +1,10 @@
 # Auto Message Sender
 
-**Auto Message Sender** é uma aplicação de automação que permite enviar mensagens automaticamente em horários programados usando o WhatsApp Web.
+**Auto Message Sender** is an automation application that allows you to send messages automatically at scheduled times using WhatsApp Web.
 
-## Funcionalidades
+## Features
 
-- **Envio de Mensagens Automático**: Envia mensagens automaticamente através do WhatsApp Web.
-- **Geração de Mensagens Procedural e Personalizada**: Escolha entre enviar mensagens pré-definidas ou personalizar sua própria mensagem.
-- **Agendamento de Mensagens**: Agende mensagens ou imagens para serem enviadas em horários específicos.
-- **Interface de Usuário Personalizável**: Ajuste ícones, regiões de captura de tela e modifique o dicionário de mensagens através da interface gráfica.
+- **Automatic Message Sending**: Send messages automatically through WhatsApp Web.
+- **Procedural and Custom Message Generation**: Choose between sending predefined messages or customizing your own message.
+- **Message Scheduling**: Schedule messages or images to be sent at specific times.
+- **Customizable User Interface**: Adjust icons, screenshot regions and modify the message dictionary through the graphical interface.
